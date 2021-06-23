@@ -1,6 +1,7 @@
-saimple chrome extension to save urls
+simple chrome extension to save urls
 
-how to use:
-clone the repo using - https://github.com/Tejas-trianz/Sample_extention.git
+How to use extension:
 
-open Chrome Manage Extensions -> Turn on Developer mode -> click on Load unpacked -> select cloned repo folder  
+1.Clone the repo using - https://github.com/Tejas-trianz/Sample_extention.git
+
+2. Open Chrome -> Manage Extensions -> Turn on Developer mode -> click on Load unpacked -> select cloned repo folder  
